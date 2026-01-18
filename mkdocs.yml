@@ -144,3 +144,31 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+nav:
+  - Home: index.md
+  - Placement Overview:
+      - Introduction: placements/index.md
+      - On-Campus: placements/on-campus.md
+      - Off-Campus: placements/off-campus.md
+  - Core Preparation:
+      - Resume Building: resume.md
+      - Technical Skills: preparation/technical-skills.md
+      - DSA Mastery: departments/cse/dsa.md
+      - Mock Tests: preparation/mock-tests.md
+      - Cold Emailing: cold-email.md
+  - Interview Stages:
+      - Group Discussions: interviews/gd.md
+      - Personal Interviews: interviews/pi.md
+      - Soft Skills: preparation/soft-skills.md
+  - Strategy & Insights:
+      - Company-specific Prep: preparation/company-specific.md
+      - Ultimate Tips: tips-strategies.md
+  - Departments:
+      - Overview: departments/index.md
+      - Computer Science (CSE):
+          - Roadmap: departments/cse/index.md
+          - DSA Mastery: departments/cse/dsa.md
+      - Electronics (ECE): departments/ece/index.md
+      - Mechanical (MECH): departments/mech/index.md
+      - Electrical (EEE): departments/eee/index.md
+      - Civil (CIVIL): departments/civil/index.md
