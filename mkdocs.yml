@@ -1,11 +1,11 @@
-site_name: mkdocs_template
-site_description: A modern documentation template built with MkDocs Material.
+site_name: College-Placement-Guide
+site_description: College Placement Guide helps students navigate campus placements with confidence. From aptitude and coding practice to interview prep and resume guidance, this repo is your one-stop solution for placement success. 
 site_author: SHADIL A M
-site_url: https://shadil-rayyan.github.io/mkdocs_template/
+site_url: https://codecompasss.github.io/College-Placement-Guide/
 
 # Repository
-repo_name: mkdocs_template
-repo_url: https://github.com/shadil-rayyan/mkdocs_template
+repo_name: College-Placement-Guide
+repo_url: https://github.com/CodeCompasss/College-Placement-Guide
 edit_uri: edit/main/docs/
 
 theme:
