@@ -1,86 +1,51 @@
-# ✨ Modern MkDocs Template
+# 🎓 The Ultimate College Placement Guide
 
-Welcome to your new documentation site! This template is pre-configured with the best plugins and extensions for a professional experience.
-
----
-
-## 🚀 Key Features
-
-- 🌓 **Dark Mode** support is built-in and follows system preferences by default.
-- 📱 **Mobile Friendly** design that looks great on any screen.
-- 🔍 **Instant Search** with highlighting and suggestions.
-- 📊 **Mermaid Diagrams** for flowcharts, sequences, and more.
-- 🔡 **Latex Math** support via Arithmatex.
+Welcome to the **College Placement Guide**, a comprehensive resource designed to help students navigate the transition from campus to corporate life. Whether you are aiming for a FAANG giant, a high-growth startup, or a core engineering role, we have a roadmap for you.
 
 ---
 
-## 📝 Markdown Examples
+## 🧭 Navigate the Guide
 
-### 💡 Admonitions
+### 📂 [Placement Overview](placements/index.md)
+Understand the fundamental differences between **On-Campus** and **Off-Campus** recruitment cycles and how to prepare for each.
 
-!!! tip "Pro Tip"
-    Use admonitions to highlight important information. They come in various flavors like `note`, `abstract`, `info`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, and `example`.
+### 🛠️ [Core Preparation](resume.md)
+Deep-dives into the essentials:
+*   **[Resume Building](resume.md)**: Crafting an ATS-proof marketing document.
+*   **[Technical Skills](preparation/technical-skills.md)**: Mastering the fundamentals beyond DSA.
+*   **[DSA Mastery](departments/cse/dsa.md)**: A structured path for problem-solving.
+*   **[Mock Tests](preparation/mock-tests.md)**: Testing your mettle under pressure.
 
-### 📑 Content Tabs
+### 🤝 [Interview Stages](interviews/gd.md)
+Conquer every round:
+*   **[Group Discussions](interviews/gd.md)**: Leadership and communication.
+*   **[Personal Interviews](interviews/pi.md)**: The STAR method and HR rounds.
+*   **[Soft Skills](preparation/soft-skills.md)**: Personality development and impact.
 
-=== "Python"
-    ```python
-    def welcome():
-        print("Welcome to MkDocs Material!")
-    ```
-
-=== "JavaScript"
-    ```javascript
-    function welcome() {
-        console.log("Welcome to MkDocs Material!");
-    }
-    ```
-
-### 📉 Diagrams
-
-```mermaid
-graph LR
-  A[Plan] --> B[Write]
-  B --> C[Deploy]
-  C --> D{Happy?}
-  D -- Yes --> A
-  D -- No --> B
-```
-
-### 🔢 Math Equations
-
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
-
-### ✅ Task Lists
-
-- [x] Create project
-- [x] Configure extensions
-- [ ] Write documentation
-- [ ] Profit!
-
-### 🎨 Icons & Emojis
-
-- :material-rocket-launch: Built for speed
-- :fontawesome-brands-github: Open source
-- :octicons-device-camera-video-24: Media friendly
-- :smile: :fire: :heart:
+### 🏘️ [Department Roadmaps](departments/index.md)
+Specialized technical guides for:
+*   [Computer Science (CSE)](departments/cse/index.md)
+*   [Electronics (ECE)](departments/ece/index.md)
+*   [Mechanical (MECH)](departments/mech/index.md)
+*   [Electrical (EEE)](departments/eee/index.md)
+*   [Civil (CIVIL)](departments/civil/index.md)
 
 ---
 
-## 🛠️ Getting Started
+## 🚀 Quick Starts
 
-1. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+::: tip "Success Mantra"
+Preparation (90%) + Luck (10%) = Placement. You control the 90%. Start today.
+:::
 
-2. **Run locally**:
-   ```bash
-   mkdocs serve
-   ```
+1.  **Read the [Ultimate Tips](tips-strategies.md)**: Get the mindset right.
+2.  **Fix your [Resume](resume.md)**: Your first impression.
+3.  **Start [Cold Emailing](cold-email.md)**: Don't wait for opportunities; create them.
 
-3. **Build site**:
-   ```bash
-   mkdocs build
-   ```
+---
+
+> [!NOTE]
+> This guide is a living document. We are constantly updating it with the latest industry trends and interview experiences.
+
+---
+**Happy Preparing, and see you at the workplace!**
