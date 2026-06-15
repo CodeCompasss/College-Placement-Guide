@@ -1,3 +1,38 @@
+# Interview Rounds Overview
+
+Most companies follow a structured multi-round interview process to evaluate candidates across aptitude, technical, and behavioral skills.
+
+## Typical Interview Flow
+
+### 1. Online Assessment (OA)
+- Aptitude + coding test
+- Conducted on platforms like HackerRank, Codeforces, or company portal
+- Filters large number of candidates
+
+### 2. Technical Interview Round 1
+- Basic to intermediate DSA questions
+- Time complexity discussion
+- Simple problem-solving
+
+### 3. Technical Interview Round 2 (Advanced)
+- Medium to hard DSA problems
+- System design basics (sometimes)
+- Deep understanding of concepts
+
+### 4. HR / Behavioral Round
+- Communication skills
+- Cultural fit
+- Salary expectations
+
+### 5. Group Discussion (if applicable)
+- Communication clarity
+- Team interaction
+- Logical thinking
+
+## Key Tips
+- Clear basics of DSA is mandatory
+- Practice explaining solutions out loud
+- Be honest in HR round
 # ⚙️ Technical Skills Preparation: Beyond DSA
 
 While DSA gets you through the door, your technical skills—Development, Core Subjects, and Tools—are what make you an engineer.

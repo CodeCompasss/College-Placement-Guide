@@ -1,3 +1,37 @@
+# Aptitude Preparation Resources
+
+Aptitude tests are common in campus placements and entry-level hiring.
+
+## Topics Covered
+- Quantitative Aptitude
+- Logical Reasoning
+- Verbal Ability
+- Data Interpretation
+
+## Recommended Practice Platforms
+
+### Quantitative Aptitude
+- Indiabix
+- RS Aggarwal book problems
+- PrepInsta aptitude section
+
+### Logical Reasoning
+- IndiaBix reasoning
+- AMCAT reasoning tests
+- India placement papers
+
+### Verbal Ability
+- Grammar basics (Tenses, Articles)
+- Reading comprehension practice
+- Sentence correction exercises
+
+## Practice Strategy
+- Practice daily 30–60 minutes
+- Focus on speed + accuracy
+- Revise formulas regularly
+
+## Important Tip
+Most aptitude questions repeat patterns — focus on solving previous year placement papers.
 # 📝 Mock Tests & Practice: The Training Ground
 
 Preparation without practice is just theory. You need to simulate the pressure of the actual placement day.

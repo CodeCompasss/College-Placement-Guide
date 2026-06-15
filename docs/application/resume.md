@@ -69,3 +69,4 @@ Start your bullet points with these:
 ## 📂 Template Recommendations
 *   **Overleaf (LaTeX):** Jake's Resume template or Deedy Resume.
 *   **Google Docs:** Simple, clean templates with no columns.
+
