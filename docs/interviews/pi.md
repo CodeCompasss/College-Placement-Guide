@@ -59,9 +59,3 @@ Used for questions like "Tell me about a time you faced a challenge..."
 > **The First 5 Minutes:** Most interviewers form an opinion within the first 5 minutes. Make your introduction and handshake (if physical) or greeting (if virtual) strong and professional.
 
 ---
-
-## 📅 Mock PI Checklist
-- [ ] Have you practiced your "Tell me about yourself" out loud?
-- [ ] Do you have 3 "STAR" stories ready?
-- [ ] Have you researched the company's recent news?
-- [ ] Is your background clean and lighting good (for virtual)?

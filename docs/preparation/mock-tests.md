@@ -42,10 +42,4 @@ Don't just take the test; analyze the results.
 > [!IMPORTANT]
 > **Simulate the Environment:** When taking a mock test, sit in a quiet room, use a laptop (not mobile), don't take breaks, and and don't look at your phone. Make it as real as possible.
 
----
 
-## ✅ Mock Test Checklist
-- [ ] Have you taken at least 5 full-length aptitude tests?
-- [ ] Have you participated in at least 3 live coding contests?
-- [ ] Can you solve a 60-minute paper in 50 minutes?
-- [ ] Do you have a strategy for which section to attempt first?
