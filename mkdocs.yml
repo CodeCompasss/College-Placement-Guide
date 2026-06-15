@@ -10,7 +10,6 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  custom_dir: overrides
   logo: assets/logo.png
   favicon: assets/favicon.ico
   
@@ -146,29 +145,36 @@ markdown_extensions:
   - pymdownx.tilde
 nav:
   - Home: index.md
-  - Placement Overview:
-      - Introduction: placements/index.md
-      - On-Campus: placements/on-campus.md
-      - Off-Campus: placements/off-campus.md
-  - Core Preparation:
-      - Resume Building: resume.md
-      - Technical Skills: preparation/technical-skills.md
-      - DSA Mastery: departments/cse/dsa.md
-      - Mock Tests: preparation/mock-tests.md
-      - Cold Emailing: cold-email.md
-  - Interview Stages:
-      - Group Discussions: interviews/gd.md
-      - Personal Interviews: interviews/pi.md
-      - Soft Skills: preparation/soft-skills.md
-  - Strategy & Insights:
-      - Company-specific Prep: preparation/company-specific.md
-      - Ultimate Tips: tips-strategies.md
-  - Departments:
-      - Overview: departments/index.md
-      - Computer Science (CSE):
-          - Roadmap: departments/cse/index.md
-          - DSA Mastery: departments/cse/dsa.md
-      - Electronics (ECE): departments/ece/index.md
-      - Mechanical (MECH): departments/mech/index.md
-      - Electrical (EEE): departments/eee/index.md
-      - Civil (CIVIL): departments/civil/index.md
+
+  - Start Here (Mindset + Direction):
+      - Company Research: job-search/company-research.md
+      - Job Portals: job-search/job-portals.md
+
+  - Resume & LinkedIn Setup (Foundation Layer):
+      - Resume Guide: resume-profile/resume-guide.md
+      - LinkedIn Profile Setup: resume-profile/linkedin-profile-setup.md
+      - Cold Emailing: resume-profile/cold-emailing.md
+      - Cover Letter: resume-profile/cover-letter.md
+
+  - Job Discovery System (How to get opportunities):
+      - Email Alerts: alerts/email-alert-setup.md
+      - LinkedIn Alerts: alerts/linkedin-alerts-guide.md
+      - RSS Job Tracking: alerts/rss-job-tracking.md
+      - Referral Guide: referrals.md
+
+  - Core Technical Preparation:
+      - DSA Mastery: resume-profile/dsa.md
+      - Aptitude Preparation: resume-profile/aptitude.md
+
+  - Interview Preparation (Cracking Stage):
+      - Interview Rounds Overview: interview-prep/interview-rounds.md
+      - Group Discussions (GD): interview-prep/gd-preparation.md
+      - HR Round Guide: interview-prep/hr-round-guide.md
+      - Soft Skills: resume-profile/soft-skills.md
+
+  - Offer Stage (Final Outcome):
+      - Compensation Comparison: salary/compensation-comparison.md
+      - Negotiation Guide: salary/negotiation-guide.md
+      - Offer Evaluation: salary/offer-evaluation.md
+
+ 
