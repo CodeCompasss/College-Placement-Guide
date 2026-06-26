@@ -144,38 +144,38 @@ markdown_extensions:
 nav:
   - Home: index.md
 
-  - Start Here (Mindset + Direction):
+  - Getting Started:
       - Company Research: job-search/company-research.md
       - Job Portals: job-search/job-portals.md
 
-  - Resume & LinkedIn Setup (Foundation Layer):
+  - Build Your Profile:
       - Resume Guide: resume-profile/resume-guide.md
       - LinkedIn Profile Setup: resume-profile/linkedin-profile-setup.md
       - Cold Emailing: resume-profile/cold-emailing.md
       - Cover Letter: resume-profile/cover-letter.md
 
-  - Job Discovery System (How to get opportunities):
+  - Find Opportunities:
       - Email Alerts: alerts/email-alert-setup.md
       - LinkedIn Alerts: alerts/linkedin-alerts-guide.md
       - RSS Job Tracking: alerts/rss-job-tracking.md
       - Referral Guide: referrals.md
 
-  - Core Technical Preparation:
+  - Prepare for Coding:
       - DSA Mastery: resume-profile/dsa.md
       - Aptitude Preparation: resume-profile/aptitude.md
 
-  - Interview Preparation (Cracking Stage):
-      - Interview Rounds Overview: interview-prep/interview-rounds.md
-      - Group Discussions (GD): interview-prep/gd-preparation.md
-      - HR Round Guide: interview-prep/hr-round-guide.md
+  - Ace the Interview:
+      - Interview Process: interview-prep/interview-rounds.md
+      - Group Discussions: interview-prep/gd-preparation.md
+      - HR Interview: interview-prep/hr-round-guide.md
       - Soft Skills: resume-profile/soft-skills.md
 
-  - Offer Stage (Final Outcome):
+  - Evaluate Your Offer:
       - Compensation Comparison: salary/compensation-comparison.md
       - Negotiation Guide: salary/negotiation-guide.md
       - Offer Evaluation: salary/offer-evaluation.md
 
-  - Resource:
-      - Whatsapp: resource/whatsapp.md
+  - Resources:
+      - WhatsApp Communities: resource/whatsapp.md
       - LinkedIn: resource/linkdln.md
-      - Youtube: resource/youtube.md
+      - YouTube Channels: resource/youtube.md
